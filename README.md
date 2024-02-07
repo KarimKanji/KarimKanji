@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim Kanji</h1>
-<h3 align="center">A programmer from Finland with a Bachelor in Information Technology BIT from Arcada University of Applied Sciences.
- <br> Currently located in Helsinki </h3>
+<h3 align="center">A programmer from Finland currently located in Helsinki <br> Bachelor in Information Technology BIT from Arcada University of Applied Sciences</h3>
 
 - 🔭 I’m currently working as **Jr. Systems Specialist at State Security Networks Ltd.**
 
