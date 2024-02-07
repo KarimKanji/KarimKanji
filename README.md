@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karim Kanji</h1>
 <h3 align="center">A programmer from Finland</h3>
 
-- 🔭 I’m currently working as **Jr. Systems Specialist**
+- 🔭 I’m currently working as **Jr. Systems Specialist at State Security Networks Ltd.**
 
 - 🌱 I’m currently learning **CMDB integration**
 
-- 👨‍💻 All of my projects are available as [repositories on my Github](repositories on my Github)
+- 👨‍💻 All of my projects are available as [repositories on my Github]
 
 - 📝 My thesis can be viewed at [https://www.theseus.fi/handle/10024/818494](https://www.theseus.fi/handle/10024/818494)
 
