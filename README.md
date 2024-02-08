@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available as repositories on my Github
 
-- 📝 My thesis can be viewed at [https://www.theseus.fi/handle/10024/818494](https://www.theseus.fi/handle/10024/818494)
+- 📝 My thesis can be viewed at [Bachelor's Thesis](https://www.theseus.fi/handle/10024/818494)
 
 - 💬 Ask me about **Configuration Management, IT-Management Models and CMDB or CMS related topics**
 
