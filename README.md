@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CMDB integration**
 
-- 👨‍💻 All of my projects are available as [repositories on my Github]
+- 👨‍💻 All of my projects are available as repositories on my Github
 
 - 📝 My thesis can be viewed at [https://www.theseus.fi/handle/10024/818494](https://www.theseus.fi/handle/10024/818494)
 
@@ -17,7 +17,8 @@
 
 - ⚡ Fun fact **I frequently go to the gym!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
+<h3 align="left"> Email: karim.lucas@gmail.com </h3>
 <p align="left">
 </p>
 
