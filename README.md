@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **karim.lucas@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1_vjluidraVCCEgSZ0W_62xfdfG8tN-Wv/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/15Row6wWzvF0FJd_k2L7rE5xoOAs3ONil/view?usp=sharing)
 
 - ⚡ Fun fact **I frequently go to the gym!**
 
